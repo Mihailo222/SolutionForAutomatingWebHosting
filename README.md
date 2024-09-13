@@ -17,18 +17,28 @@ Finally, this is the Angular/Laravel full-stack application with API that sends 
 
 Admin Dashboard:
 
-![Screenshot (1741)](https://github.com/user-attachments/assets/3bccf586-cd3e-4895-8801-39d1b68b0a57)
+![Screenshot (1751)](https://github.com/user-attachments/assets/e0a59c6a-8819-4d7f-9644-de57b60e2a5a)
 
-![Screenshot (1745)](https://github.com/user-attachments/assets/f4f85570-7a95-472f-979a-5cd973705b04)
+![Screenshot (1752)](https://github.com/user-attachments/assets/2b76f020-d9ee-408e-b578-e77b3897b568)
 
 Features:
 
-![Screenshot (1746)](https://github.com/user-attachments/assets/74906853-d68e-4523-81d0-77d27281566f)
 
-![Screenshot (1747)](https://github.com/user-attachments/assets/2d24a485-ee9e-49e8-ae52-a3e9b0ae56ce)
+![Screenshot (1753)](https://github.com/user-attachments/assets/57707d65-79bc-4508-b1a0-04427b5582bd)
 
-![Screenshot (1748)](https://github.com/user-attachments/assets/747b881e-7cfd-4095-bf72-a63172760b36)
+![Screenshot (1757)](https://github.com/user-attachments/assets/64ea1097-c7a3-4ce4-bc32-b34cb5551188)
 
-![Screenshot (1749)](https://github.com/user-attachments/assets/7a86d914-b6f5-40b0-9786-f8e93cefa852)
+![Screenshot (1754)](https://github.com/user-attachments/assets/9f642b61-ec3f-4882-a428-0655b3885de9)
 
-![Screenshot (1750)](https://github.com/user-attachments/assets/ece94270-095f-442c-ac19-d1e474e1d036)
+![Screenshot (1755)](https://github.com/user-attachments/assets/a0f87493-786a-4676-bbe8-81551b8ee0af)
+
+![Screenshot (1756)](https://github.com/user-attachments/assets/d979341c-e57c-4729-a006-f06ae77893bc)
+
+
+
+
+
+
+
+
+
